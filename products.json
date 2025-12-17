@@ -1,0 +1,6 @@
+ [
+{ "id": "p001", "name": "Face Wash", "category": "Cosmetics", "price": 210 },
+{ "id": "p002", "name": "Soap", "category": "Bathroom", "price": 10 },
+{ "id": "p003", "name": "Knife", "category": "Kitchen", "price": 25 },
+{ "id": "p004", "name": "Pencil", "category": "Stationery", "price": 5 }
+]
